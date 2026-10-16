@@ -30,3 +30,4 @@ https://github.com/agczsz/monitor-miuix
 https://github.com/Gongsc/Theme-Pixel
 https://github.com/akanotanin/monitor-theme-kanso
 https://github.com/bluesmkun/y2k
+https://github.com/K23Flux/K23Flux-monitor-theme-ping
